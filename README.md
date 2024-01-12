@@ -1,0 +1,1 @@
+game-master文件夹为github上game-master开源项目，里面的游戏都是纯前端游戏，供JavaScript学习使用。
